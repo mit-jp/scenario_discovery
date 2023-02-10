@@ -279,4 +279,5 @@ if __name__ == "__main__":
     st.set_page_config(layout = 'wide')
 
     elements = Display().run()
+    print(1)
     # Visualization("Distribution", Preparation("GLB_RAW", "2C_GLB_RENEW_SHARE")).makePlot()
